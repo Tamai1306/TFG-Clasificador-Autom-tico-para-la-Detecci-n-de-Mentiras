@@ -76,7 +76,7 @@ function speech_analitics(audio_path,gender,truthfulness,distance_speech,distanc
     xlabel("Time (s)")
     ylabel("Amplitude")
     name=strsplit(audio_path,{'/','.'});
-    name=name(4);
+    name=name(3);
     folder="Figures/";
     if not(isfolder(folder))
         mkdir(folder)
