@@ -1,5 +1,5 @@
 clear,close all,clc
-folder="../Dataset/audio/";
+folder="../Dataset/";
 list = importdata(folder+'lie_detection_wav.txt');
 for i=1:size(list,1)
     data=strsplit(list{i});
