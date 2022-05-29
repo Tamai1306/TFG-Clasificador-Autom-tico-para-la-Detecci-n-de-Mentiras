@@ -12,11 +12,11 @@ mp_pose = mp.solutions.pose
 
 
 
-folder_dataset="../Dataset/video/"
+folder_dataset="../Dataset/"
 #Obtener videos del dataset
-for i in glob.glob("../Dataset/video/Ronda_*"):
-  print("Analizando {}...".format(i.split("/")[3]))
-  video=i.split("/")[3]
+for i in glob.glob("../Dataset/*.mp4"):
+  print("Analizando {}...".format(i.split("/")[2]))
+  video=i.split("/")[2]
   folder="./"+video.replace(".mp4","")+"/"
   if not os.path.isdir(folder): #Si no existiese la carpeta crearla
       os.mkdir(folder)
