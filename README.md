@@ -1,5 +1,5 @@
 # TFG: Clasificador Automatico para la Deteccion de Mentiras
-
+# Introducción
 Desde los inicios del ser humano se han ido desarrollando diversas capacidades para adaptarse
 al entorno o a las diferentes circunstancias de la vida. Conforme el habla fue desarrollándose junto
 a las habilidades sociales, también apareció la capacidad de ocultar la verdad. Los seres humanos
@@ -13,3 +13,7 @@ información útil sobre la veracidad de un discurso. Por otro lado, se analizar
 las personas de los vı́deos de la base de datos, ası́ como uno de sus movimientos corporales. En
 conjunto estas caracterı́sticas servirán para generar un clasificador automático que sea capaz de
 dirimir si una persona ha sido sincera o ha mentido o engañado.
+
+En este repositorio, se van a subir los códigos creados tanto en MATLAB como en Python3, empleados para la generación de dicho clasificador.
+
+
