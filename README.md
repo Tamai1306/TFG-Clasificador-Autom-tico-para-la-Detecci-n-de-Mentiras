@@ -1,7 +1,8 @@
 # TFG: Clasificador Automatico para la Deteccion de Mentiras
 ## Índice:
 1. [Introducción.](#Intro)
-2. [Instalación](#install)
+2. [Instalación.](#install)
+3. [Modo de Uso](#use)
 
 ## 1.  Introducción
 Desde los inicios del ser humano se han ido desarrollando diversas capacidades para adaptarse al entorno o a las diferentes circunstancias de la vida. Conforme el habla fue desarrollándose junto a las habilidades sociales, también apareció la capacidad de ocultar la verdad. Los seres humanos aprendemos a mentir desde muy pequeños conforme nos relacionamos con el entorno y con el resto de seres humanos.
@@ -22,5 +23,10 @@ Para instalar las dependencias y los frameworks de Python se tiene que ejecutar 
 ```bash
 $ pip3 install -r requirements.txt
 ```
+
+## 3. Modo de Uso
+
+
+
 
 
