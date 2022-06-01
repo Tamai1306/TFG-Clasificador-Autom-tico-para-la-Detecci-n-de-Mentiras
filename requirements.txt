@@ -1,0 +1,8 @@
+numpy==1.21.0
+opencv-python==4.1.2.30
+tensorflow==2.5.2
+scipy==1.7.2
+deepface==0.0.74
+mediapipe==0.8.9
+pygame==2.0.1
+matplotlib==3.5.1
