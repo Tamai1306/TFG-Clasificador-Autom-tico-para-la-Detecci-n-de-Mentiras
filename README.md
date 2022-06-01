@@ -1,4 +1,4 @@
-## TFG: Clasificador Automatico para la Deteccion de Mentiras
+# TFG: Clasificador Automatico para la Deteccion de Mentiras
 ## Índice:
 1. [Introducción.](#Intro)
 2. [Instalación](#install)
