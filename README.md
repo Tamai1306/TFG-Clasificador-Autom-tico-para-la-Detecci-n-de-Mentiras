@@ -1,4 +1,9 @@
 # TFG: Clasificador Automatico para la Deteccion de Mentiras
+
+<p align="center">
+  <imf height=300 src="Images/Captura de pantalla de 2022-06-02 10-28-15.png"/>
+</p>
+
 ## Índice:
 - [1. Introducción](#intro)
 - [2. Instalación](#install)
