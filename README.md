@@ -1,9 +1,7 @@
 # TFG: Clasificador Automatico para la Deteccion de Mentiras
 ## Índice:
-1. [Introducción.](#Intro)
-2. [Instalación.](#install)
-3. [Modo de Uso](#use)
-4. [Demostración](#demo)
+
+[TOC]
 
 ## 1.  Introducción
 Desde los inicios del ser humano se han ido desarrollando diversas capacidades para adaptarse al entorno o a las diferentes circunstancias de la vida. Conforme el habla fue desarrollándose junto a las habilidades sociales, también apareció la capacidad de ocultar la verdad. Los seres humanos aprendemos a mentir desde muy pequeños conforme nos relacionamos con el entorno y con el resto de seres humanos.
@@ -43,5 +41,3 @@ Este código cargará los datos extraídos anteriormente de cada subcarpeta y ge
 
 ## 4. Demostración
 Para ejemplificar la ejecución de los códigos anteriores, se ha creado un vídeo demostracion en el que se muestra el funcionamiento del sistema en tiempo real con los vídeos del dataset. El vídeo en cuestión se encuentra [Aquí](https://youtu.be/NqE1uMfK7sQ "Aquí").
-
-
