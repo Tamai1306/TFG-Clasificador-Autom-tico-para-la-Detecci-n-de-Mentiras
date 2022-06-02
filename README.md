@@ -2,7 +2,7 @@
 ## Índice:
 - [1. Introducción](#intro)
 - [2. Instalación](#install)
-- [3. Cómo usar](#use)
+- [3. Modo de Uso](#use)
 - [4. Demostración](#demo)
 
 ## Introducción: <a name="intro"/>
